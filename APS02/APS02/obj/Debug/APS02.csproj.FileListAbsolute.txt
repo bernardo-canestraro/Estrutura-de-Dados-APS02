@@ -1,0 +1,10 @@
+C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\bin\Debug\APS02.exe.config
+C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\bin\Debug\APS02.exe
+C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\bin\Debug\APS02.pdb
+C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.csproj.AssemblyReference.cache
+C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.Controller.UserControl1.resources
+C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.Properties.Resources.resources
+C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.csproj.GenerateResource.cache
+C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.csproj.CoreCompileInputs.cache
+C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.exe
+C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.pdb
