@@ -8,3 +8,11 @@ C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.csproj.GenerateRe
 C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.csproj.CoreCompileInputs.cache
 C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.exe
 C:\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.Controller.UserControl1.resources
+C:\Users\gabri\OneDrive\Documentos\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\Estrutura-de-Dados-APS02\APS02\APS02\obj\Debug\APS02.pdb

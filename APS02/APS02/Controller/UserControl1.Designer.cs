@@ -1,4 +1,6 @@
-﻿namespace APS02.Controller
+﻿using Guna.UI2.WinForms; // Adicione esta diretiva using no início do arquivo
+
+namespace APS02.Controller
 {
     partial class UserControl1
     {
