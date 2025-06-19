@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\ter\\ter\\sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|solutionrelative:sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\ter\\ter\\sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|solutionrelative:sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\ter\\ter\\sistema\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|solutionrelative:sistema\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\ter\\ter\\sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|solutionrelative:sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\ter\\ter\\sistema\\sistema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|solutionrelative:sistema\\sistema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\ter\\ter\\sistema\\tabelahash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E5B666-6B7F-48E8-A227-4EC27626F0FB}|Sistema\\Sistema.csproj|solutionrelative:sistema\\tabelahash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Sistema\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:49:57.258Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sistema",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\Sistema.csproj",
+              "RelativeDocumentMoniker": "Sistema\\Sistema.csproj",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\Sistema.csproj",
+              "RelativeToolTip": "Sistema\\Sistema.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-19T12:46:21.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\Form1.cs",
+              "RelativeToolTip": "Sistema\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:36:43.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TabelaHash.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\TabelaHash.cs",
+              "RelativeDocumentMoniker": "Sistema\\TabelaHash.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\TabelaHash.cs",
+              "RelativeToolTip": "Sistema\\TabelaHash.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:36:26.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\Paciente.cs",
+              "RelativeDocumentMoniker": "Sistema\\Paciente.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\Paciente.cs",
+              "RelativeToolTip": "Sistema\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:36:04.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\ter\\ter\\Sistema\\Program.cs",
+              "RelativeToolTip": "Sistema\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:34:27.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

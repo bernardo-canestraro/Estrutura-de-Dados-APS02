@@ -1,0 +1,16 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\obj\Debug\net8.0\Sistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\obj\Debug\net8.0\Sistema.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\obj\Debug\net8.0\Sistema.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\obj\Debug\net8.0\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\bin\Debug\net8.0\Sistema.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\bin\Debug\net8.0\Sistema.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\bin\Debug\net8.0\Sistema.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\bin\Debug\net8.0\Sistema.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\bin\Debug\net8.0\Sistema.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\obj\Debug\net8.0\Sistema.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\obj\Debug\net8.0\refint\Sistema.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\obj\Debug\net8.0\Sistema.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\obj\Debug\net8.0\Sistema.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\obj\Debug\net8.0\ref\Sistema.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\obj\Debug\net8.0\Sistema.Form1.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\ter\ter\Sistema\obj\Debug\net8.0\Sistema.csproj.GenerateResource.cache
